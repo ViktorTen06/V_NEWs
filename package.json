@@ -1,0 +1,23 @@
+{
+  "name": "v_news",
+  "version": "1.0.0",
+  "description": "my_project_VNEWs",
+  "keywords": [
+    "my_project"
+  ],
+  "homepage": "https://github.com/ViktorTen06/V_NEWs#readme",
+  "bugs": {
+    "url": "https://github.com/ViktorTen06/V_NEWs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViktorTen06/V_NEWs.git"
+  },
+  "license": "ISC",
+  "author": "Viktor Ten (sitysiavicotry2000@gmail.com)",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
