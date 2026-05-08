@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+}
+* .container {
+  background: black;
+}
+
+.container {
+  width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+}/*# sourceMappingURL=style.css.map */
