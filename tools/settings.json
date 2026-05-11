@@ -1,0 +1,65 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "git.ignoreMissingGitWarning": true,
+    "editor.fontSize": 14,
+		"editor.minimap.autohide": "mouseover",
+    "editor.tabSize": 2,
+    "workbench.activityBar.location": "hidden",
+    "files.defaultLanguage": "html",
+		"editor.detectIndentation": false,
+    "editor.parameterHints.enabled": false,
+    "editor.parameterHints.cycle": false,
+    "editor.hover.enabled": "off",
+    "terminal.integrated.fontSize": 13,
+    "editor.renderWhitespace": "boundary",
+    "editor.suggestLineHeight": 23,
+    "explorer.confirmDelete": false,
+    "security.workspace.trust.enabled": false,
+		"editor.insertSpaces": false,
+		"editor.linkedEditing": true,
+		"ecsstractor_port.add_comment": false,
+		"ecsstractor_port.empty_line_before_nested_selector": false,
+		"workbench.colorTheme": "Dracula Theme Soft",
+		"emmet.extensionsPath": [
+			"~\\User||Application Support\\Code\\User\\emmet"
+		],
+		"liveServer.settings.donotShowInfoMsg": true,
+		"workbench.iconTheme": "material-icon-theme",
+		"[html]": {
+			"editor.defaultFormatter": "vscode.html-language-features"
+		},
+		"liveSassCompile.settings.showOutputWindowOn": "None",
+		"liveSassCompile.settings.formats": [
+			{
+				"format": "expanded",
+				"extensionName": ".css",
+				"savePath": "~/../css/"
+				
+			}
+		],
+		"[css]": {
+			"editor.defaultFormatter": "vscode.css-language-features"
+		},
+		"chat.viewSessions.enabled": false,
+		"workbench.secondarySideBar.defaultVisibility": "hidden",
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"[javascript]": {
+			"editor.formatOnSave": true
+},
+"bootstrapIntelliSense": {
+	"enable": true,
+	"bsVersion": "5.3.7",
+	"useLocalFile": false,
+	"cssFilePath": "",
+	"languageSupport": []
+},
+
+"editor.renderLineHighlight": "none",
+"editor.showFoldingControls": "always",
+"editor.scrollbar.horizontal": "hidden",
+"better-comments.multilineComments": true,
+"notebook.showFoldingControls": "always",
+"claudeCode.preferredLocation": "panel",
+"editor.minimap.enabled": false
+
+}
